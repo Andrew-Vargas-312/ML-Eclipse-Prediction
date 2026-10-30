@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project in your research, please cite the original author."
+type: software
+authors:
+  - family-names: "Vargas Alfaro"
+    given-names: "Andrew"
+title: "ML-Eclipse-Prediction"
+repository-code: "https://github.com/Andrew-Vargas-312/ML-Eclipse-Prediction"
+license: Apache-2.0
